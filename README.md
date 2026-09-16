@@ -296,6 +296,7 @@ flowchart TB
 
     GP --> RH[RH / Departamento Pessoal]
     GP --> TEC[Tecnologia]
+    GP --> FIN[Financeiro]
     GP --> SK[Sankhya]
 
     RH --> DP[Folha / Férias / Rescisão]
@@ -305,8 +306,9 @@ flowchart TB
     TEC --> ERP[ERP / Sistemas]
     TEC --> INF[Infraestrutura]
     TEC --> SEG[Segurança da Informação]
-    TEC --> CONT[Contabilidade]
-    TEC --> FIN[Contas a Pagar]
+
+    FIN --> CONT[Contabilidade]
+    FIN --> CAP[Contas a Pagar]
 
     SK --> GPF[GP do Fornecedor]
     SK --> CONS[Consultoria de Implantação]
