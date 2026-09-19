@@ -434,3 +434,23 @@ O objetivo não é reproduzir documentos internos, mas demonstrar **como uma mig
 Gerenciamento de Projetos de Tecnologia | PMO | Transformação Digital
 
 </div>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <strong>Geek Note</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="140" valign="middle" align="center">
+      <img src="assets/octocat-neo-pessoas-plus.png" width="120" alt="Octocat inspirado em um hacker de uma realidade digital" />
+    </td>
+    <td valign="middle" align="center">
+      <strong>Entre a pílula azul do legado e a vermelha da transformação,<br>
+      escolhemos encarar a mudança — levando dados, processos e pessoas<br>
+      para uma nova realidade.</strong>
+    </td>
+  </tr>
+</table>
